@@ -39,7 +39,7 @@ Then, you clone the forked repository. Remember, this is the copy of the origina
 
 ### Read Guidelines
 
-You should check the contributing guidelines, FAQs and check anything that might be mentioned for users to see before contributing to the project. Generally, everything will be mentioned briefly on the README.md, if not, it may also be on the root folder of the repository. 
+You should check the contributing guidelines, FAQs and check anything that might be mentioned for users to see before contributing to the project. Generally, everything will be mentioned briefly on the README.md, if not, it may also be on the root folder of the repository as respective file like `CONTRIBUTING.md`. 
 
 ### Make your changes
 
